@@ -116,7 +116,6 @@ The application is distributed as free software. See the in-app **Settings → A
 
 Made with care by **R Kaurav**.
 
-`<sub>`Keywords: audiophile android music player · bit-perfect · USB DAC · hi-res audio · FLAC ·
-lossless · exclusive output · parametric EQ · DSP · synced lyrics · Last.fm · ListenBrainz · SoundCloud`</sub>`
+<sub>Keywords: audiophile android music player · bit-perfect · USB DAC · hi-res audio · FLAC · lossless · exclusive output · parametric EQ · DSP · synced lyrics · Last.fm · ListenBrainz · SoundCloud</sub>
 
 </div>
