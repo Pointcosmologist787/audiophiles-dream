@@ -8,6 +8,7 @@
 [![Total downloads](https://img.shields.io/github/downloads/kaurav99/audiophiles-dream/total?style=for-the-badge&color=6FB7B0)](https://github.com/kaurav99/audiophiles-dream/releases)
 [![Platform](https://img.shields.io/badge/Platform-Android%2012%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#-install)
 [![License](https://img.shields.io/badge/License-Freeware-blue?style=for-the-badge)](#-license)
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/kaurav99)
 
 **[⬇️ Download the latest APK](https://github.com/kaurav99/audiophiles-dream/releases/latest)**
 
@@ -77,14 +78,14 @@ The APK is **signed**; updates with the same signature install over the top with
 
 | Now Playing | Signal Path | Library | About (Spanda Bindu) |
 |:--:|:--:|:--:|:--:|
-| ![Now Playing](screenshots/now-playing.jpg) | ![Signal Path](screenshots/signal-path.jpg) | ![Library](screenshots/library.jpg) | ![About](screenshots/about.jpg) |
+| ![Now Playing](screenshots/now-playing.png) | ![Signal Path](screenshots/signal-path.png) | ![Library](screenshots/library.png) | ![About](screenshots/about.png) |
 
 ---
 
 ## 🗒️ Releases
 
 All builds are published on the **[Releases](https://github.com/kaurav99/audiophiles-dream/releases)** page,
-with notes describing what changed. The current line is **`0.2.0 · Spanda Bindu`**.
+with notes describing what changed. The current line is **`0.2.3 · Spanda Bindu`**.
 
 ---
 
@@ -101,6 +102,17 @@ Most UAC-compliant USB DACs are supported for exclusive, bit-perfect output.
 
 ---
 
+## ❤️ Sponsor
+
+Audiophile's Dream is free to use. If it earns a place in your listening setup,
+you can support its continued development:
+
+**[❤ Sponsor on GitHub](https://github.com/sponsors/kaurav99)**
+
+Every contribution helps cover development time, test hardware (DACs), and
+hosting — thank you!
+
+---
 
 ## 📜 License
 
@@ -122,7 +134,9 @@ The software is provided **"as is", without warranty of any kind**, express or
 implied. The author is not liable for any damages arising from its use.
 
 Third-party open-source components are used under their respective licenses
-(e.g. the bundled Apple ALAC decoder under the Apache License 2.0).
+(e.g. the bundled Apple ALAC decoder under the Apache License 2.0). The full
+list of components and their notices is available in-app under
+**Settings → About → Open-source licenses**.
 
 For any other use, contact the author at **ralkau@proton.me**.
 
